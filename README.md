@@ -1,4 +1,4 @@
-Hi,I'm Jacka
+Hi
 
 Code Novice,beginning from 2023.
   
