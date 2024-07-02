@@ -15,5 +15,7 @@ A code novice, beginning from 2023.🚀
 
 ## 📫 Contact Me
 
-- GitHub: [Jacka10086](https://github.com/Jacka10086)
+- Email: jyj496806255@Gmail.com
+- Telegram: @Jacka10086
+- QQ: 496806255
 - Personal Website: [yijun.online](http://yijun.online)
