@@ -6,6 +6,6 @@ beginning my coding journey from 2023.🚀
 
 ## 📫 Contact Me
 
-- Email: jacka10086@yijun.online
+- Email: i@jacka10086.me
 - Telegram: @Jacka10086
 - QQ: 496806255
