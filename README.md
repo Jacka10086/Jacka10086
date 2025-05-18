@@ -1,9 +1,9 @@
-<img align="right" src="image.jpg" width="400px" />
+<img align="right" src="image.jpg" width="300px" />
 
 Hi, I’m Jacka10086,
 
 ### 我的信息 / Profile
-- [Faceit](https://faceittracker.net/players/Jacka1-)
+- [FACEIT(EU)](https://faceittracker.net/players/Jacka1-)
 
 ### 主力开发 / Main Project
 - [易君Ejunz 在线学习训练系统 / Ejunz Online-learning & training Platform](https://github.com/ejunz-dev/Ejunz)
