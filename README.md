@@ -1,3 +1,5 @@
+<img align="right" src="image.jpg" width="400px" />
+
 # Hello! I'm Jacka10086 😄
 
 ## 📫 Contact Me
@@ -6,5 +8,4 @@
 - Telegram: @Jacka10086
 - QQ: 496806255
 
-![2025-05-18 22 26 59](https://github.com/user-attachments/assets/14440653-df85-4343-be35-4cb1c0884e47)
 
