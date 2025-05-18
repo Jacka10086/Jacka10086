@@ -1,4 +1,4 @@
-<img align="right" src="image.jpg" width="300px" />
+<img align="right" src="image.jpg" width="400px" />
 
 Hi, I’m Jacka10086,
 
