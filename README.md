@@ -7,7 +7,8 @@ Hi, I’m Jacka10086,
 - [ZkillBoard](https://zkillboard.com/character/2121647240/)
 
 ### 主力开发 / Main Project:
-- [Next generation web platform for multiple usages](https://github.com/ejunz-dev/Ejunz)
+- [Ejunz](https://github.com/ejunz-dev/Ejunz)
+- [Ejunz-edge](https://github.com/ejunz-dev/agent-edge)
 
 ### 联系方式 / Contact me:
 - Email: i@jacka10086.me
