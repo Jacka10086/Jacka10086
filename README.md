@@ -2,10 +2,6 @@
 
 Hi, I’m Jacka10086,
 
-### 个人资料 / My Profiles:
-- [FACEIT(EU)](https://faceittracker.net/players/Jacka1-)
-- [ZkillBoard](https://zkillboard.com/character/2121647240/)
-
 ### 主力开发 / Main Project:
 - [Ejunz](https://github.com/ejunz-dev/Ejunz)
 - [Ejunz-edge](https://github.com/ejunz-dev/agent-edge)
