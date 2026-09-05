@@ -4,7 +4,9 @@ Hi, I’m Jacka10086,
 
 ### 主力开发 / Main Project:
 - [Ejunz](https://github.com/ejunz-dev/Ejunz)
-- [Ejunz-edge](https://github.com/ejunz-dev/agent-edge)
+
+### 团队 / Member of:
+- [nixpkgs maintainers](https://github.com/orgs/NixOS/teams/nixpkgs-maintainers)
 
 ### 联系方式 / Contact me:
 - Email: i@jacka10086.me
