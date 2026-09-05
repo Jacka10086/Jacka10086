@@ -12,3 +12,7 @@ Hi, I’m Jacka10086,
 - Email: i@jacka10086.me
 - Telegram: @Jacka10086
 - QQ: 496806255
+
+If you are interested in or benefit from my work, you can support me through GitHub Sponsors or the Alipay QR code below. Cheers! 🥂
+
+[Alipay](https://pay.jacka10086.me/)
